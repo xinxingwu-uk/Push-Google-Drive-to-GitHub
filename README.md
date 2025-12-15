@@ -48,6 +48,10 @@ https://github.com/settings/tokens
 ![Demo](images/1.jpg)
 
 ### 2️⃣ Click “Generate new token”
+
+![Demo](images/2.jpg)
+
+
 Choose:
 
 - **Classic token** *(simpler, recommended)*
@@ -56,8 +60,14 @@ Choose:
 Fill in:
 
 - **Note:** `Colab Push Token`
+
+![Demo](images/3.jpg)
+
 - **Expiration:** `7 days` or `30 days` *(recommended)*
 - **Scopes (IMPORTANT):**
   - ✅ `repo`
 
+![Demo](images/4.jpg)
+
+![Demo](images/5.jpg)
 
