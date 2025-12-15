@@ -2,11 +2,11 @@
 
 ## Assume:
 
-Repo: https://github.com/xinxingwu-uk/Test
+- Repo: https://github.com/xinxingwu-uk/Test
 
-You are running this in Google Colab
+- You are running this in Google Colab
 
-Your project folder is already inside Google Drive
+- Your project folder is already inside Google Drive
 
 
 Use Google Colab to push Drive → GitHub (Replace YOUR_GITHUB_TOKEN with your GitHub Personal Access Token)
