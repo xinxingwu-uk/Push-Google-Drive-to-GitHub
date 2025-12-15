@@ -8,6 +8,7 @@
 
 - Your project folder is already inside Google Drive
 
+![Demo](images/0.jpg)
 
 # Use Google Colab to push Drive → GitHub 
 
