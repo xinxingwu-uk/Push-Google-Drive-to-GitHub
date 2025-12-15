@@ -1,8 +1,6 @@
 # Push-Google-Drive-to-GitHub
 
----
-
-Assume:
+## Assume:
 
 Repo: https://github.com/xinxingwu-uk/Test
 
