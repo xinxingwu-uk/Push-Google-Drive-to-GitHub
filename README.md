@@ -9,9 +9,12 @@
 - Your project folder is already inside Google Drive
 
 
-Use Google Colab to push Drive → GitHub (Replace YOUR_GITHUB_TOKEN with your GitHub Personal Access Token)
+# Use Google Colab to push Drive → GitHub 
+
+Step-by-step in Colab (Replace YOUR_GITHUB_TOKEN with your GitHub Personal Access Token)
 
 
+---
 
 # What is `YOUR_GITHUB_TOKEN`?
 
@@ -54,7 +57,4 @@ Fill in:
 - **Scopes (IMPORTANT):**
   - ✅ `repo`
 
----
 
-## Tip
-Keep your token private—don’t paste it into public GitHub repos or screenshots.
