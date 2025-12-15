@@ -19,9 +19,6 @@ Use Google Colab to push Drive → GitHub (Replace YOUR_GITHUB_TOKEN with your G
 
 It refers to a **GitHub Personal Access Token (PAT)** that **you generate in your GitHub account**. GitHub no longer allows password-based authentication for `git push`, and Colab can’t reliably prompt for a username/password, so a token is commonly used instead.
 
-Think of it as:
-
-🔑 **A password replacement (only for Git operations)**
 
 ---
 
