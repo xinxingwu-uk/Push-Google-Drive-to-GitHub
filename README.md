@@ -45,6 +45,8 @@ While logged into GitHub, go to:
 
 https://github.com/settings/tokens
 
+![Demo](images/1.jpg)
+
 ### 2️⃣ Click “Generate new token”
 Choose:
 
