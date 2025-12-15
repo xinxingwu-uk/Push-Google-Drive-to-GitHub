@@ -14,6 +14,7 @@
 
 Step-by-step in Colab (Replace YOUR_GITHUB_TOKEN with your GitHub Personal Access Token)
 
+https://github.com/xinxingwu-uk/Push-Google-Drive-to-GitHub/blob/main/ToGitHub.ipynb
 
 ---
 ---
